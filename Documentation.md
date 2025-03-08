@@ -83,6 +83,7 @@ return {"message": "Hello World"}
 ```
 
 ## Path Parameters
+You can declare path "parameters" or "variables" with the same syntax used by Python format strings:
 ```python
 from fastapi import FastAPI
 
